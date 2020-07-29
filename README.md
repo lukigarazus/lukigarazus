@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+Here's a structured overview of all of my repos, enjoy!
+
+### Experiments/Proofs of concepts/Interesting ideas
+
+[Soccer simulation](https://github.com/lukigarazus/haskell-soccer-simulation)
 
 <!--
 **lukigarazus/lukigarazus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
