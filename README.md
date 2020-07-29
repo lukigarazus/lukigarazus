@@ -2,9 +2,21 @@
 
 Here's a structured overview of all of my repos, enjoy!
 
-### Experiments/Proofs of concepts/Interesting ideas
+### Experiments, proofs of concepts, interesting ideas and education
 
-[Soccer simulation](https://github.com/lukigarazus/haskell-soccer-simulation)
+[Haskell Soccer Simulation](https://github.com/lukigarazus/haskell-soccer-simulation)
+
+[Spacy Automatic Paraphrase](https://github.com/lukigarazus/automatic-paraphrase)
+
+[React Spreadsheet](https://github.com/lukigarazus/react-mobx-spreadsheet)
+
+[React Elevator](https://github.com/lukigarazus/elevator)
+
+[Raspberry Stats](https://github.com/lukigarazus/raspberry-stats)
+
+[Hubble Expansion on Canvas](https://github.com/lukigarazus/hubble-expansion)
+
+[Reason Algorithms](https://github.com/lukigarazus/reason-algorithms)
 
 <!--
 **lukigarazus/lukigarazus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
