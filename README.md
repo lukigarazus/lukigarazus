@@ -12,7 +12,13 @@ Here's a structured overview of all of my repos, enjoy!
 
 [Google Calendar Clone](https://github.com/lukigarazus/react-google-calendar-clone)
 
-[Pathify object](https://github.com/lukigarazus/pathify-object)
+[Pathify Object](https://github.com/lukigarazus/pathify-object)
+
+### Small Applications
+
+[Decision Tree](https://github.com/lukigarazus/vue-decision-tree)
+
+[Meal Planner](https://github.com/lukigarazus/meal-planner)
 
 ### Experiments, proofs of concepts, interesting ideas and education
 
