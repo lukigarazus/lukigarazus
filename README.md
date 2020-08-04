@@ -14,6 +14,8 @@ Here's a structured overview of all of my repos, enjoy!
 
 [Pathify Object](https://github.com/lukigarazus/pathify-object)
 
+[Deep Proxy](https://github.com/lukigarazus/deep-proxy)
+
 ### Small Applications
 
 [Decision Tree](https://github.com/lukigarazus/vue-decision-tree)
