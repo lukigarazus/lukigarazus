@@ -46,6 +46,8 @@ Here's a structured overview of all of my repos, enjoy!
 
 [Translation App](https://github.com/lukigarazus/translation-app)
 
+[Github Issues](https://github.com/lukigarazus/github-issues)
+
 <!--
 **lukigarazus/lukigarazus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
