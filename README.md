@@ -24,7 +24,7 @@ Here's a structured overview of all of my repos, enjoy!
 
 ### Experiments, proofs of concepts, interesting ideas and education
 
-[Haskell Soccer Simulation](https://github.com/lukigarazus/haskell-soccer-simulation)
+[Haskell Implementation of JavaScript](https://github.com/lukigarazus/haskell-script)
 
 [Spacy Automatic Paraphrase](https://github.com/lukigarazus/automatic-paraphrase)
 
